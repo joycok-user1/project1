@@ -4,7 +4,7 @@
 main() {
  print("hello world");
  int a =0;
- a= a+2;
+ a= a+3;
 }
 ```
 
